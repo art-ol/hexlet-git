@@ -1,1 +1,1 @@
-Hello, People!
+Hello. Hexlet! How are you?
